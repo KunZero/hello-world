@@ -50,8 +50,8 @@ windows电脑查找文件:我的电脑=>用户=>用户名文件夹=> .ssh(隐藏
 12、github账户 配置密匙
 
 13、暂存区=>远程仓库
-git remote add origin https ://github.com/
-git push -U origin master
+git remote add origin https ://github.com/    
+git push -u origin master
 [注]提交过程，可能需要你输入用户名，密码。
 
 14、git clone
