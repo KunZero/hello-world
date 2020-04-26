@@ -1,9 +1,15 @@
 # 学习git
+
 ### 好好学习 天天向上
+
 ###js逆向  Android逆向
+
 ###爬虫工程师
+
 ###fighting！！！
+
 ###[注]没有消息就是好消息。
+
 git操作的具体步骤
 
 1、cd路径进入当前目录
@@ -44,7 +50,7 @@ windows电脑查找文件:我的电脑=>用户=>用户名文件夹=> .ssh(隐藏
 12、github账户 配置密匙
 
 13、暂存区=>远程仓库
-git remote add origin https ://github。com/BullFei/ testDemo. git
+git remote add origin https ://github.com/
 git push -U origin master
 [注]提交过程，可能需要你输入用户名，密码。
 
@@ -52,7 +58,7 @@ git push -U origin master
 从远程仓库，克隆项目到本地
 
 15、git pull
-从远程仓库同步本地代码(更新
+从远程仓库同步本地代码(更新)
 
 
  
