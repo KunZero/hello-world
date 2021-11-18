@@ -1,4 +1,4 @@
-'这是git测试py文件'
+﻿'这是git测试py文件'
 
 
 print('hello-world')
@@ -11,3 +11,6 @@ print('OK')
 
 print('modified')
 
+'''
+take a rest
+'''
